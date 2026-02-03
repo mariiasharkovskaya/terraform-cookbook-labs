@@ -1,5 +1,5 @@
 resource "github_repository" "terraform_repo" {
-  name        = "terraform-repo"
+  name        = var.repo_name
   description = "Terraform repository for managing infrastructure"
 }
 

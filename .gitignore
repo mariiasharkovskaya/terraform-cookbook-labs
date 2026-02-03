@@ -1,1 +1,5 @@
+.terraform
 terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.backup.2026-02-02-0439
